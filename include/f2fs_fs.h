@@ -30,7 +30,7 @@
 #ifdef HAVE_CONFIG_H
 #include <config.h>
 #else
-#ifdef __ANDROID__
+#if defined(__ANDROID__) && !defined(WITH_ANDROID)
 #define WITH_ANDROID
 #endif
 #endif /* HAVE_CONFIG_H */
