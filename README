@@ -1,3 +1,9 @@
+Note
+---------------------
+This repository is cloned from the "master" branch at https://android.googlesource.com/platform/external/f2fs-tools,
+up to the commit 0febd3282d87cac4604d301e7afd1cc4cfd7f28d
+
+
 F2FS format utility
 ---------------------
 
